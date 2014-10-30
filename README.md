@@ -2,7 +2,7 @@ BiomechanicsBootcamp02_TrigA
 ============================
 Tutorial 2: Trigonometry A (Geometry)
 
-Learn/review/reinforce Trig rules to solve for angles or lengths. Turn everything into triangles, apply Trig and you win. We'll also start building a mathematical model of a limb.
+Learn/review/reinforce Trig rules to solve for angles or lengths useful for doing vector arithmetic and quantifying anatomy and motion. Turn everything into triangles, apply Trig and you win. We'll also start building a mathematical model of a limb.
 
 <p>
 Two ways to download the material:
